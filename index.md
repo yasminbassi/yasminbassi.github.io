@@ -6,7 +6,7 @@ In 2013, I completed a PhD in Philosophy at the University of Warwick. My resear
 
 I now apply my philosophy skills to the tech/product management world – scrutinizing user problems, using data to form my hypotheses, challennging assumptions, conducting research to scope new opportunities, designing valid experiments, making strong arguments, but crucially taking other opinions and arguments on board to find the best solutions for users. 
 
-I have 4 years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, fundraising innovation products, working with agencies, and lots more.   
+I have 4 years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, working with agencies, and lots more.   
 
 ## Professional certificates and courses
 - Certified Scrum Product Owner (CSPO) with Scrum Alliance since 2014
