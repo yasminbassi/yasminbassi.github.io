@@ -20,3 +20,8 @@ My research focussed on the question of whether our mental states (what we think
 
 ## More about me 
 I practice yoga and mindfulness and completed a British Wheel of Yoga Foundation course in 2013. I’m a committee member of a sight loss charity called [RP Fighting Blindness](https://www.rpfightingblindness.org.uk/home.php?home=yes) and am also a qualified English Language teacher. I spent five and half year’s working at a call centre whilst at University, where I learnt the underrated art of great customer service. I love all things science fiction. 
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/yasmin-bassi-75645b116/)
+- [Medium](https://medium.com/@yasmin.bassi)
+- Email: yasmin.bassi@gmail.com
