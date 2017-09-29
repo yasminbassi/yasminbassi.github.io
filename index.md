@@ -8,8 +8,8 @@ I now apply my philosophy skills to the tech/product management world – scruti
 
 I have 4 years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, fundraising innovation products, working with agencies, and lots more.   
 
-Professional certificates and courses
--Certified Scrum Product Owner (CSPO) with Scrum Alliance since 2014
+## Professional certificates and courses
+- Certified Scrum Product Owner (CSPO) with Scrum Alliance since 2014
 - Certified Lean Kanban Foundation Course, Lean Kanban University Certified since 2015
 - Product Strategy and Product Roadmap Course, Roman Pichler, London,  June 2017
 
