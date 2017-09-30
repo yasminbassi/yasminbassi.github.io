@@ -1,10 +1,10 @@
 ## About Me
 
-I’m a data-driven Product Manager with 4 years’ experience in product and project management. I’m passionate about technology, philosophy and the intersection of the two - how great technology and design can change the way we live and change our understanding of the most basic concepts of human knowledge.
+I’m a data-driven Product Manager with four years’ experience in product and project management. I’m passionate about technology, philosophy and the intersection of the two - how great technology and design can change the way we live and change our understanding of the most basic concepts of human knowledge.
 
 In 2013, I completed a PhD in Philosophy at the University of Warwick. I now apply my philosophy skills to the tech/product management world – scrutinizing user problems, using data to form my hypotheses, challennging assumptions, conducting research to scope new opportunities, designing valid experiments, making strong arguments, but crucially taking other opinions and arguments on board to find the best solutions for users. 
 
-I have 4 years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, working with agencies, and lots more.   
+I have four years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, working with agencies, and lots more.   
 
 ### Professional Certificates and Courses
 - Certified Scrum Product Owner (CSPO) with Scrum Alliance since 2014
