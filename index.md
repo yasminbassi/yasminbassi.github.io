@@ -1,10 +1,10 @@
 ## About Me
 
-I’m a data-driven Product Manager with a passion for technology and products that people love to use. I have exceptional communication and analytical skills, with a background in research and a PhD in Philosophy. I’m a Certified Scrum Product Owner and Certified Lean Kanban practitioner. 
+I’m a data-driven Product Manager with a passion for technology and products that can improve the way we live. I have exceptional communication and analytical skills, with a background in research and a PhD in Philosophy. I’m a Certified Scrum Product Owner and Certified Lean Kanban practitioner. 
 
-In 2013, I completed a PhD in Philosophy at the University of Warwick. I now apply my philosophy skills to the tech/product management world – scrutinizing user problems, using data to form hypotheses, challenging assumptions, conducting research to scope new opportunities, designing valid experiments, making strong arguments, but taking other opinions and arguments on board to find the best solutions for users. 
+In 2013, I completed a PhD in Philosophy at the University of Warwick. I now apply my philosophy skills to the tech/product management world – scrutinizing user problems, using data to form hypotheses, challenging assumptions, conducting research to scope new business opportunities, designing valid experiments, making strong arguments, but taking other opinions and arguments on board to find the best solutions for users and the business. 
 
-I have five years’ experience in the product and project management world. I’ve led on new product development, managing portfolios of existing products, retiring legacy products, API builds, microsites, working with agencies, and lots more.   
+I have five years’ experience in the product and project management world. I’ve led on new product development, managed portfolios of existing products, retired legacy products, worked on API builds, microsites, payment gateway implementation and lots more.   
 
 ### Professional Certificates and Courses
 - Javascript, Code Academy (in progress)
