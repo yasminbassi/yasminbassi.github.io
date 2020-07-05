@@ -17,7 +17,7 @@ In 2013, I completed a PhD in Philosophy at the University of Warwick. I now app
 - HTML & CSS, Codecademy (2016)
 - Lean Kanban Foundation Course, Lean Kanban University Certified (2015)
 - Scrum Product Owner Certification with Scrum Alliance (2014)
-- British Wheel of Yoga Foundation Course (2013)
+- British Wheel of Yoga Foundation Course (2014)
 - Certificate in English Language Teaching to Adults, International House (2009) 
 
 ## Research
