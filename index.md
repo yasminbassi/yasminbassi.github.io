@@ -9,6 +9,7 @@ My product experience spans the commercial sector, charity sector and agency sid
 In 2013, I completed a PhD in Philosophy at the University of Warwick. I now apply these skills to the tech & product management world – understanding and solving complex problems, using data to form hypotheses, designing valid experiments and conducting research to scope new opportunities for the product and the business, challenging assumptions and building strong arguments, whilst being open to other opinions and arguments. 
 
 ### Certificates and Courses
+- Advanced Analytics, Google Analytics Academy (2020)
 - Mindfulness Based Cognitive Therapy for Life (MBCT-L), Oxford Mindfulness Centre (2019)
 - Javascript, Code Academy (in progress)
 - Product Strategy and Product Roadmap Course, Roman Pichler, London (2017)
